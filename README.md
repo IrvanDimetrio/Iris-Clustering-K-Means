@@ -3,7 +3,8 @@
 ## Iris K-Means Clustering (KmeansClustering.py)
 Dengan output sebagai berikut :
 
-![Output Step 1 1](https://user-images.githubusercontent.com/52452132/121651750-28fd7780-cac5-11eb-85fa-cb9396ead75c.PNG | width=100)
+![Output Step 1 1](https://user-images.githubusercontent.com/52452132/121651750-28fd7780-cac5-11eb-85fa-cb9396ead75c.PNG)
+<img src="https://user-images.githubusercontent.com/52452132/121651750-28fd7780-cac5-11eb-85fa-cb9396ead75c.PNG" width="50" height="45">
 ![Output Step 1 2](https://user-images.githubusercontent.com/52452132/121651752-2a2ea480-cac5-11eb-8a6a-a5054201e30c.PNG)
 ![Output Step 1 3](https://user-images.githubusercontent.com/52452132/121651755-2ac73b00-cac5-11eb-8d1a-ad1fd578b845.PNG)
 ![Output Step 1 4 1](https://user-images.githubusercontent.com/52452132/121651757-2ac73b00-cac5-11eb-99e7-49d147f9780f.PNG)
