@@ -1,5 +1,13 @@
 # Iris Clustering (K-Means)
 
+## Library Yang Dibutuhkan
+```python3
+pip install seaborn
+pip install matplotlib
+pip install pandas
+pip install scikit-learn
+```
+
 ## 1. Iris K-Means Clustering (KmeansClustering.py)
 Dengan output sebagai berikut :
 
